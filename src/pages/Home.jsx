@@ -229,7 +229,7 @@ function HomePage() {
 
     return result;
   }
-  // AIzaSyDvqRAD6HKnqHGBKKThoOifEh92jh49efs
+ 
   async function Handledata() {
     console.log(formdata);
     const prompt = ` You are a professional career coach and resume optimization expert. 
